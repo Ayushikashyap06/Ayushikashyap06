@@ -1,6 +1,6 @@
 👋 Hi, I'm Ayushi Kashyap!
 🎓 Master's Student Specializing in Data Analysis
-I'm passionate about turning data into actionable insights. Currently pursuing my Master's in [Your Major] with a specialization in Data Analysis, I enjoy working on projects that challenge me to apply statistical methods, machine learning, and data visualization to solve real-world problems.
+I'm passionate about turning data into actionable insights. Currently pursuing my Master's in computer application with a specialization in Data Analysis, I enjoy working on projects that challenge me to apply statistical methods, machine learning, and data visualization to solve real-world problems.
 
 🔭 Projects and Interests
 Data Analysis & Visualization: I work on projects that involve large datasets, deriving insights through advanced analytics and visual storytelling.
